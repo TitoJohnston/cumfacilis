@@ -1,0 +1,30 @@
+{
+  "name": "cumfacilis",
+  "version": "1.0.0",
+  "main": "src/opencv.js",
+  "types": "src/opencv.d.ts",
+  "description": "This package is a work in progress to translate opecv with a typescript definition",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.2.3"
+  },
+  "keywords": [
+    "itaque",
+    "opencvjs",
+    "quas"
+  ],
+  "author": "EttieJerde",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TitoJohnston/cumfacilis.git"
+  },
+  "browser": {
+    "fs": false,
+    "crypto": false,
+    "path": false
+  },
+  "bugs": {
+    "url": "https://github.com/TitoJohnston/cumfacilis.git/issues"
+  },
+  "homepage": "https://github.com/TitoJohnston/cumfacilis.git"
+}
